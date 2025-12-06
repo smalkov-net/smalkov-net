@@ -1,6 +1,6 @@
-Меня зовут Александр
-
-Hi, my name is Alexander
+pavona
+one photo
+one moments
 
 <!--
 
